@@ -14,7 +14,7 @@ L’ensemble de ces éléments a été validé par l’équipe Produit, il est d
 |Fonction recherche | <ul><li>Les usagers pourront rechercher des hébergements dans la ville de leur choix.</li><li>Le champ de recherche est un champ de saisie, le texte doit donc pouvoir être édité par l’utilisateur.</li><li>Il faut englober ce champ dans un formulaire. La partie Recherche ne doit pas être fonctionnelle - <i>il s’agit d’une première version pour valider l’interface.</i></li></ul>|
 |Liens “Hébergements” et “Activités” | <ul><li>Les textes “Hébergements” et “Activités”, situés dans l’en-tête, sont des liens. Ils doivent mener respectivement vers la section “Hébergements à Marseille” et “Activités à Marseille”.</li></ul> |
 |Cartes “Hébergements” et “Activités” | <ul><li>Chaque carte d’hébergement ou d’activité devra être cliquable dans son intégralité (pas uniquement le titre).</li><li>Pour l’instant, les liens sont vides. On peut utiliser un attribut `href=”#”` pour simuler la présence d’un lien.</li></ul>|
-|Cartes “Hébergements” et “Activités” | <ul><li>Les hébergements peuvent être filtrés par thématique, comme le budget oul’ambiance</li><li>Les filtres doivent changer de couleur au survol de la souris.</li><li>Les filtres ne doivent pas être fonctionnels - il s’agit juste d’une première version pour valider l’interface..</li></ul>|
+|Cartes “Hébergements” et “Activités” | <ul><li>Les hébergements peuvent être filtrés par thématique, comme le budget ou l’ambiance</li><li>Les filtres doivent changer de couleur au survol de la souris.</li><li>Les filtres ne doivent pas être fonctionnels - il s’agit juste d’une première version pour valider l’interface..</li></ul>|
 
 ## Spécifications technique
 

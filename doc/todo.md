@@ -4,23 +4,23 @@
 
 ### 🎯 Une fois cette étape terminée, je dois avoir :
 
-- [ ] un fichier index.html ;
-- [ ] un dossier “css” avec votre ou vos fichiers CSS ;
-- [ ] un dossier “assets” ou “images” contenant les images du projet.
+- [x] un fichier index.html ;
+- [x] un dossier “css” avec votre ou vos fichiers CSS ;
+- [x] un dossier “assets” ou “images” contenant les images du projet.
 
 ### 📌 Recommandations :
 
-- [ ] Commencez par installer l’éditeur de texte. Il est recommandé d’utiliser
+- [x] Commencez par installer l’éditeur de texte. Il est recommandé d’utiliser
       Visual Studio Code, mais pas obligatoire. Sublime Text est également
       apprécié pour sa simplicité d’utilisation.
 
-- [ ] Importez les variantes de la police Raleway depuis Google Fonts.
-  - [ ] Quelles variantes correspondent à la maquette ? Pour le savoir,
+- [x] Importez les variantes de la police Raleway depuis Google Fonts.
+  - [x] Quelles variantes correspondent à la maquette ? Pour le savoir,
         testez-les sur un mot.
-- [ ] Pour pouvoir utiliser la librairie Font Awesome :
-  - [ ] Créez-vous un kit sur Font Awesome en suivant ce lien et
+- [x] Pour pouvoir utiliser la librairie Font Awesome :
+  - [x] Créez-vous un kit sur Font Awesome en suivant ce [lien](https://fontawesome.com/docs/web/setup/use-kit) et
         ajoutez-le au projet ;
-  - [ ] Vérifiez que ça fonctionne correctement en ajoutant une icône
+  - [x] Vérifiez que ça fonctionne correctement en ajoutant une icône
         Font Awesome à votre projet.
 
 ### 🚨 Points de vigilance :
@@ -28,13 +28,13 @@
 - Le code fourni devrait vous permettre de faire fonctionner le site dès le
   début, même s’il est incomplet. Cependant, si vous modifiez le code et
   rencontrez des difficultés, posez-vous les questions suivantes :
-  - [ ] Le style CSS ne fonctionne pas correctement.
-    - [ ] Avez-vous bien lié le fichier CSS dans le code HTML ?
-  - [ ] La police ne s’affiche pas correctement.
-    - [ ] Avez-vous importé les polices Google Fonts avant de les
+  - [x] Le style CSS ne fonctionne pas correctement.
+    - [x] Avez-vous bien lié le fichier CSS dans le code HTML ?
+  - [x] La police ne s’affiche pas correctement.
+    - [x] Avez-vous importé les polices Google Fonts avant de les
           utiliser ?
-  - [ ] Les icônes Font Awesome ne s’affichent pas correctement.
-    - [ ] Avez-vous ajouté un kit Font Awesome au projet en amont ?
+  - [x] Les icônes Font Awesome ne s’affichent pas correctement.
+    - [x] Avez-vous ajouté un kit Font Awesome au projet en amont ?
 - Il y a des erreurs, des problèmes d’affichage ou bien quelque chose
   d'autre ne fonctionne pas dans votre code ? C'est une chose qui arrive
   souvent en développement. C'est pourquoi c'est important de savoir
@@ -45,31 +45,31 @@
 
 ### 📚 Ressources :
 
-- [ ] le cours « Mettez en place votre environnement front-end » en sautant les
+- [x] le cours « Mettez en place votre environnement front-end » en sautant les
       parties sur Git ;
-- [ ] la documentation officielle pour utiliser Font Awesome.
+- [x] la documentation officielle pour utiliser Font Awesome.
 
 ## Étape 2 : Découpez votre maquette à l’aide d’un papier et d’un crayon
 
 ### 🪴 Avant de démarrer cette étape, je dois avoir :
 
-- [ ] mis en place l’environnement de développement.
+- [x] mis en place l’environnement de développement.
 
 ### 🎯 Une fois cette étape terminée, je dois avoir :
 
-- [ ] une maquette découpée, représentant la structure du code HTML.
+- [x] une maquette découpée, représentant la structure du code HTML.
 
 ### 📌 Recommandations :
 
-- [ ] Suivez le webinaire « Découpez une maquette pour préparer l’intégration » pour réaliser la découpe de la maquette Booki.
-- [ ] Posez-vous les questions suivantes :
-  - [ ] Avez-vous pu identifier tout ce qui est visible sur la maquette (les
+- [x] Suivez le webinaire « Découpez une maquette pour préparer l’intégration » pour réaliser la découpe de la maquette Booki.
+- [x] Posez-vous les questions suivantes :
+  - [x] Avez-vous pu identifier tout ce qui est visible sur la maquette (les
         éléments comme le logo, la fonction recherche, les cartes
         hébergements et activités et- [ ]) ?
-  - [ ] Comment sont regroupés les différents éléments ?
-  - [ ] Pour chaque élément, quelle est la balise HTML qui lui est
+  - [x] Comment sont regroupés les différents éléments ?
+  - [x] Pour chaque élément, quelle est la balise HTML qui lui est
         associée ?
-- [ ] Définissez à quel moment positionner les éléments de façon horizontale,
+- [x] Définissez à quel moment positionner les éléments de façon horizontale,
       ou bien de façon verticale. En effet, chaque bloc ne contient que des
       éléments positionnés soit horizontalement (par exemple, les filtres de la
       barre de navigation), soit verticalement (par exemple les cartes de la
@@ -80,47 +80,47 @@
 
 ### 🚨 Points de vigilance :
 
-- [ ] Ne perdez pas trop de temps à réaliser un découpage parfait. Le principal est
+- [x] Ne perdez pas trop de temps à réaliser un découpage parfait. Le principal est
       d'avoir une vision rapide des principaux enjeux de la maquette.
 
 ### 📚 Ressources :
 
-- [ ] le webinaire « Découpez une maquette pour préparer l’intégration ».
+- [x] le webinaire « Découpez une maquette pour préparer l’intégration ».
 - [ ] le cours « Créez une maquette web avec Figma ».
 
 ## Étape 3 : Intégrez le header du projet
 
 ### 🪴 Avant de démarrer cette étape, je dois avoir :
 
-- [ ] réalisé le découpage de la maquette.
+- [x] réalisé le découpage de la maquette.
       Une fois cette étape terminée, je dois avoir :
-- [ ] le code de l’en-tête de la page.
+- [x] le code de l’en-tête de la page.
 
 ### 📌 Recommandations :
 
-- [ ] Concentrez vous sur la version desktop du site afin que celle-ci soit
+- [x] Concentrez vous sur la version desktop du site afin que celle-ci soit
       pleinement fonctionnelle. Vous travaillerez sur les versions tablette /
       mobile et aborderez la notion "media queries" plus tard (Étape numéro
       11).
-- [ ] Pour réaliser le positionnement entre le logo Booki et les parties
+- [x] Pour réaliser le positionnement entre le logo Booki et les parties
       Hébergements/Activités, vous pouvez utiliser Flexbox (ou Grid).
 
 ### 🚨 Points de vigilance :
 
-- [ ] Attention à ne pas oublier la bordure bleue qui s’affiche au survol.
-- [ ] Attention, la bordure bleue s’affiche au-dessus en version desktop, et en
+- [x] Attention à ne pas oublier la bordure bleue qui s’affiche au survol.
+- [x] Attention, la bordure bleue s’affiche au-dessus en version desktop, et en
       dessous en version mobile.
-- [ ] Distinguez les moments où il faut utiliser une propriété margin plutôt
+- [x] Distinguez les moments où il faut utiliser une propriété margin plutôt
       que padding.
-- [ ] Il est préférable d’utiliser des pixels plutôt que des pourcentages pour les
+- [x] Il est préférable d’utiliser des pixels plutôt que des pourcentages pour les
       valeurs des marges et des paddings.
-- [ ] Les balises HTML ont des propriétés CSS par défaut (par exemple, un titre
+- [x] Les balises HTML ont des propriétés CSS par défaut (par exemple, un titre
       “h1” est affiché en gras par défaut).
-- [ ] Il faut savoir que par défaut, la balise “body” comporte des marges.
+- [x] Il faut savoir que par défaut, la balise “body” comporte des marges.
 
 ### 📚 Ressources :
 
-- [ ] Le chapitre « Faites votre mise en page avec Flexbox » du cours «
+- [x] Le chapitre « Faites votre mise en page avec Flexbox » du cours «
       Apprenez à créer votre site web avec HTML5 et CSS3 » ;
 - [x] Le petit jeu Flexbox Froggy pour vous entraîner à écrire du code CSS
 
@@ -128,7 +128,7 @@
 
 ### 🪴 Avant de démarrer cette étape, je dois avoir :
 
-- [ ] intégré le header de la page.
+- [x] intégré le header de la page.
 
 ### 🎯 Une fois cette étape terminée, je dois avoir :
 
@@ -138,7 +138,7 @@
 
 - [ ] Identifiez bien la construction de ce formulaire qui est constitué de
       3 parties, comme on le voit sur la maquette.
-- [ ] Pour le moment, concentrez-vous sur la partie desktop, l’intégration de la
+- [x] Pour le moment, concentrez-vous sur la partie desktop, l’intégration de la
       partie responsive pourra se faire plus tard.
 - [ ] Ensuite, avec du CSS, il faudra afficher ou masquer le mot ou l’icône en
       fonction de l’écran utilisé.
@@ -149,9 +149,7 @@
       recherche, pour que le visuel corresponde à la maquette.
 - [ ] Attention au style de la barre de recherche : sur desktop, le bouton de
       recherche comprend le texte « Rechercher », alors que sur mobile, c’est
-      une loupe. Pour gérer cela, il va falloir intégrer les deux éléments (le mot
-
-- l’icône) en HTML.
+      une loupe. Pour gérer cela, il va falloir intégrer les deux éléments (le motl’icône) en HTML.
 
 ### 📚 Ressources :
 
