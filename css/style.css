@@ -10,19 +10,19 @@
   --main-bg-color: #f2f2f2;
   --filter-bg-color: #deebff;
   --button-border-color: #d9d9d9;
-  --black-color: #000px;
+  --black-color: #000;
   --white-color: #fff;
 
   /* Font sizes */
   --base-font-size: 1rem; /** 16px **/
-  --heavy-font-size: var(--22px-rem);
-  --filter-font-size: var(--17px-rem);
+  --heavy-font-size: var(--fs22);
+  --filter-font-size: var(--fs17);
 
-  --22px-rem: 1.375rem;
-  --18px-rem: 1.125rem;
-  --17px-rem: 1.0625rem;
-  --14px-rem: 0.875rem;
-  --13px-rem: 0.813rem;
+  --fs22: 1.375rem;
+  --fs18: 1.125rem;
+  --fs17: 1.0625rem;
+  --fs14: 0.875rem;
+  --fs13: 0.813rem;
 
   /** Shadow **/
   --card-shadow: 0px 3px 15px rgba(0, 0, 0, 0.1);
@@ -129,7 +129,7 @@ nav .logo {
 }
 
 .search-title .section-title {
-  margin-bottom: 4px 0px 8px 0px;
+  margin: 4px 0px 8px 0px;
 }
 
 .search-title .section-subtitle {
@@ -162,7 +162,7 @@ nav .logo {
   border: 1px solid var(--main-bg-color);
   border-left: 0px;
   border-right: 0px;
-  font-size: var(--18px-rem);
+  font-size: var(--fs18);
   font-weight: 700;
 }
 
@@ -171,7 +171,7 @@ nav .logo {
   background-color: var(--main-color);
   color: var(--white-color);
   font-weight: 700;
-  font-size: var(--18px-rem);
+  font-size: var(--fs18);
   border-radius: 0px 15px 15px 0px;
   border: 0px;
 }
@@ -189,7 +189,7 @@ nav .logo {
 }
 
 .filters-title {
-  font-size: var(--18px-rem);
+  font-size: var(--fs18);
   margin: 0px;
 }
 
@@ -256,7 +256,7 @@ nav .logo {
 }
 
 .card-subtitle {
-  font-size: var(--14px-rem);
+  font-size: var(--fs14);
 }
 
 .euro {
@@ -305,7 +305,7 @@ nav .logo {
 
 .hebergements-plus {
   margin-top: 30px;
-  font-size: var(--18px-rem);
+  font-size: var(--fs18);
   font-weight: bold;
   color: black;
   transition: color 0.2s ease-in-out;
@@ -417,7 +417,7 @@ footer {
 }
 
 .menu-title {
-  font-size: var(--18px-rem);
+  font-size: var(--fs18);
   margin: 0px 0px 15px 0px;
 }
 
@@ -489,7 +489,7 @@ footer {
   :root {
     --padding-section-x: 20px;
     --padding-search-x: var(--padding-section-x);
-    --filter-font-size: var(--14px-rem);
+    --filter-font-size: var(--fs14);
   }
 
   .main-container {
