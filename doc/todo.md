@@ -132,28 +132,28 @@
 
 ### 🎯 Une fois cette étape terminée, je dois avoir :
 
-- [ ] Un formulaire de recherche intégré à la page HTML.
+- [x] Un formulaire de recherche intégré à la page HTML.
 
 ### 📌 Recommandations :
 
-- [ ] Identifiez bien la construction de ce formulaire qui est constitué de
+- [x] Identifiez bien la construction de ce formulaire qui est constitué de
       3 parties, comme on le voit sur la maquette.
 - [x] Pour le moment, concentrez-vous sur la partie desktop, l’intégration de la
       partie responsive pourra se faire plus tard.
-- [ ] Ensuite, avec du CSS, il faudra afficher ou masquer le mot ou l’icône en
+- [x] Ensuite, avec du CSS, il faudra afficher ou masquer le mot ou l’icône en
       fonction de l’écran utilisé.
 
 ### 🚨 Points de vigilance :
 
-- [ ] Attention à ne pas appliquer une bordure sur l’intégralité du champ de
+- [x] Attention à ne pas appliquer une bordure sur l’intégralité du champ de
       recherche, pour que le visuel corresponde à la maquette.
-- [ ] Attention au style de la barre de recherche : sur desktop, le bouton de
+- [x] Attention au style de la barre de recherche : sur desktop, le bouton de
       recherche comprend le texte « Rechercher », alors que sur mobile, c’est
       une loupe. Pour gérer cela, il va falloir intégrer les deux éléments (le motl’icône) en HTML.
 
 ### 📚 Ressources :
 
-- [ ] Le chapitre Créez des formulaires du cours « Apprenez à créer votre site
+- [x] Le chapitre Créez des formulaires du cours « Apprenez à créer votre site
       web avec HTML5 et CSS3 ».
 
 ## Étape 5 : Ajout de la partie Filtres
@@ -227,7 +227,7 @@ une première carte hébergement. Elle sera utile à l’étape 8.
 
 - [x] L’article How to – Cards de W3C avec quelques snippets de code pour
       réaliser une card ;
-- [x] L’article MDN sur la propriété « object-fit »
+- [ ] L’article MDN sur la propriété « object-fit »
 
 ## Étape 7 : Gérez l’affichage des “cards” du conteneur “Hébergements à Marseille”
 
@@ -355,7 +355,7 @@ une première carte hébergement. Elle sera utile à l’étape 8.
 
 - [x] Le chapitre « Utilisez le responsive design avec les Media Queries » du
       cours « Créez votre site web avec HTML5 et CSS3 » ;
-- [x] L’article Utilisation de la balise meta viewport pour contrôler la mise en
+- [ ] L’article Utilisation de la balise meta viewport pour contrôler la mise en
       page sur mobile.
 
 ## Étape 11 : Vérifiez la qualité de votre code
@@ -386,8 +386,8 @@ une première carte hébergement. Elle sera utile à l’étape 8.
 
 ### 📚 Ressources :
 
-- [ ] Les outils de validation de code :
-  - [ ] Validateur HTML du W3C ;
-  - [ ] Validateur CSS du W3C.
+- [x] Les outils de validation de code :
+  - [x] Validateur HTML du W3C ;
+  - [x] Validateur CSS du W3C.
 
 # Projet terminé !
