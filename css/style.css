@@ -128,6 +128,7 @@ nav .logo {
 .main-menu .menu-link:focus,
 .main-menu .menu-link:active,
 .main-menu .menu-link.active {
+  color: var(--main-color);
   border-top-color: var(--main-color);
 }
 
